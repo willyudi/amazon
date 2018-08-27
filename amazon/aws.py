@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
 # encoding: utf-8
 import csv
@@ -11,3 +12,8 @@ with open('incidentes.csv', 'r', newline='', encoding='mac_cyrillic') as csv_fil
 		print(str(contador) + ' - ' + str(line))
 		contador = contador + 1
 		
+=======
+#testando github sábado
+#novo branch
+print ("Hello World")
+>>>>>>> b2efab33b397a28bcff023d4908509039af63ede
